@@ -27,18 +27,18 @@ The dashboard uses data from the following sources:
 - Filter by product categories, regions, or other relevant dimensions.
 
 ## Known Issues
-- [Map]: [Rendering of map is slow sometimes]
+- Map: Rendering of map is slow sometimes
 
 ## Contributing
 We welcome contributions! If you find any issues or have suggestions, please submit a GitHub issue or pull request.
 
 
 ## Contact Information
-For questions or feedback, contact [Anish Kumar] at [aryankumarak7787@gmail.com].
+For questions or feedback, contact Anish Kumar at aryankumarak7787@gmail.com.
 
 ## Acknowledgments
-- Thanks to [Mentor Meena Pandey] for [Guidance and Overview].
+- Thanks to Mentor Meena Pandey for Guidance and Overview.
 
 ## Demo
-[<img width="720" alt="image" src="https://github.com/Anish-77/PowerBI-Dashboard/assets/156690996/521ed894-8bc7-4d17-bae2-27386890b958">
-]
+<img width="720" alt="image" src="https://github.com/Anish-77/PowerBI-Dashboard/assets/156690996/521ed894-8bc7-4d17-bae2-27386890b958">
+
